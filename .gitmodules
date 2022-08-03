@@ -1,0 +1,3 @@
+[submodule "cmake/GenPkgConfig"]
+	path = cmake/GenPkgConfig
+	url = https://github.com/KOLANICH-libs/GenPkgConfig.cmake
